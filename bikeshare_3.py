@@ -77,7 +77,7 @@ def load_data(city, month, day):
 def time_stats(df):
     """Displays statistics on the most frequent times of travel."""
 
-    print('\nI\'ve combined all of your specific inputs and will return calculated outputs below. Please enjoy this haiku while you wait:\n\nDelightful distance,\n\ncontrasting great colours,\n\nirreplaceable thoughts.\n\n-------------------------\n')
+    print('\nI\'ve combined your inputs and will return calculated outputs below. Enjoy this haiku while you wait:\n\nColourful chaos,\n\ngraceful dark Winter,\n\nunbelievable inspiration.\n\n-------------------------\n')
     df['Start Time'] = pd.to_datetime(df['Start Time'])
 
     # The following code displays the most common month
