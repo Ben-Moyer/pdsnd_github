@@ -22,7 +22,7 @@ washington.csv
 
 Credits:
 ----------
-I would like to thank Udacity and my student peers for helping me develop my skills. I would like to send a big thank you to: 
+I would like to thank Udacity and my student peers for helping me develop my skills. I would also like to send a big thank you to: 
 
 /beingjainparas
 
